@@ -1,4 +1,4 @@
-# CIS542_Final_Project
+# CIS542_Final_Project README
 
 This program was written by Eric Faith for CIS 542 - Digital Forensics, in December 2023.
 
