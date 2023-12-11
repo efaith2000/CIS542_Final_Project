@@ -1,0 +1,250 @@
+HardwareID :  ['USB\\ROOT_HUB20&VID8086&PID1E2D&REV0004', 'USB\\ROOT_HUB20&VID8086&PID1E2D', 'USB\\ROOT_HUB20']
+Service :  usbhub
+Mfg :  @usbport.inf,%generic.mfg%;(Standard USB Host Controller)
+
+
+
+
+HardwareID :  ['USB\\ROOT_HUB20&VID8086&PID1E26&REV0004', 'USB\\ROOT_HUB20&VID8086&PID1E26', 'USB\\ROOT_HUB20']
+Service :  usbhub
+Mfg :  @usbport.inf,%generic.mfg%;(Standard USB Host Controller)
+
+
+
+
+
+HardwareID :  ['USB\\ROOT_HUB30&VID8086&PID1E31&REV0004', 'USB\\ROOT_HUB30&VID8086&PID1E31', 'USB\\ROOT_HUB30']
+Service :  USBHUB3
+Mfg :  @usbhub3.inf,%generic.mfg%;(Standard USB HUBs)
+
+
+
+
+
+HardwareID :  ['USB\\DEVICE_DESCRIPTOR_FAILURE']
+Mfg :  @usb.inf,%generic.mfg%;(Standard USB Host Controller)
+
+
+
+
+
+HardwareID :  ['USB\\SET_ADDRESS_FAILURE']
+Mfg :  @usb.inf,%generic.mfg%;(Standard USB Host Controller)
+
+
+
+
+
+HardwareID :  ['USB\\VID_04E8&PID_6860&REV_0400', 'USB\\VID_04E8&PID_6860']
+Service :  WUDFWpdMtp
+Mfg :  samsung
+FriendlyName :  Eric's Tab S6 Lite
+
+
+
+
+
+HardwareID :  ['USB\\VID_04E8&PID_6860&REV_0400&MI_00', 'USB\\VID_04E8&PID_6860&MI_00']
+Mfg :  samsung
+Service :  WUDFWpdMtp
+FriendlyName :  Eric's Tab S6 Lite
+
+
+
+
+
+HardwareID :  ['USB\\VID_04E8&PID_6860&REV_0400&MI_01', 'USB\\VID_04E8&PID_6860&MI_01']
+Mfg :  @usbser.inf,%msft%;Microsoft
+Service :  usbser
+FriendlyName :  USB Serial Device (COM5)
+
+
+
+
+
+HardwareID :  ['USB\\VID_05AC&PID_12A8&REV_1102', 'USB\\VID_05AC&PID_12A8']
+Service :  usbccgp
+Mfg :  @oem37.inf,%aapl%;Apple, Inc.
+FriendlyName :  @oem37.inf,%iPhone.AppleUSB.DeviceDesc%;Apple Mobile Device USB Composite Device
+
+
+
+
+HardwareID :  ['USB\\VID_05AC&PID_12A8&REV_1208', 'USB\\VID_05AC&PID_12A8']
+Service :  usbccgp
+Mfg :  @oem37.inf,%aapl%;Apple, Inc.
+FriendlyName :  @oem37.inf,%iPhone.AppleUSB.DeviceDesc%;Apple Mobile Device USB Composite Device
+
+
+
+
+HardwareID :  ['USB\\VID_05AC&PID_12A8&REV_1302', 'USB\\VID_05AC&PID_12A8']
+Service :  usbccgp
+Mfg :  @oem47.inf,%aapl%;Apple, Inc.
+FriendlyName :  @oem47.inf,%iPhone.AppleUSB.DeviceDesc%;Apple Mobile Device USB Composite Device
+
+
+
+
+HardwareID :  ['USB\\VID_05AC&PID_12A8&REV_0901', 'USB\\VID_05AC&PID_12A8']
+Service :  usbccgp
+Mfg :  @oem37.inf,%aapl%;Apple, Inc.
+FriendlyName :  @oem37.inf,%iPhone.AppleUSB.DeviceDesc%;Apple Mobile Device USB Composite Device
+
+
+
+
+
+HardwareID :  ['USB\\VID_05AC&PID_12A8&REV_1208&MI_00', 'USB\\VID_05AC&PID_12A8&MI_00']
+Mfg :  Apple Inc.
+Service :  WUDFWpdMtp
+FriendlyName :  Apple iPhone
+
+
+
+
+HardwareID :  ['USB\\VID_05AC&PID_12A8&REV_1302&MI_00', 'USB\\VID_05AC&PID_12A8&MI_00']
+Mfg :  Apple Inc.
+Service :  WUDFWpdMtp
+FriendlyName :  Apple iPhone
+
+
+
+
+HardwareID :  ['USB\\VID_05AC&PID_12A8&REV_0901&MI_00', 'USB\\VID_05AC&PID_12A8&MI_00']
+Mfg :  Apple Inc.
+Service :  WUDFWpdMtp
+FriendlyName :  Apple iPhone
+
+
+
+
+HardwareID :  ['USB\\VID_05AC&PID_12A8&REV_1102&MI_00', 'USB\\VID_05AC&PID_12A8&MI_00']
+Mfg :  Apple Inc.
+Service :  WUDFWpdMtp
+FriendlyName :  Apple iPhone
+
+
+
+
+
+HardwareID :  ['USB\\VID_05C8&PID_034B&REV_0112', 'USB\\VID_05C8&PID_034B']
+Service :  usbccgp
+Mfg :  @usb.inf,%generic.mfg%;(Standard USB Host Controller)
+
+
+
+
+
+HardwareID :  ['USB\\VID_05C8&PID_034B&REV_0112&MI_00', 'USB\\VID_05C8&PID_034B&MI_00']
+Service :  usbvideo
+Mfg :  @oem8.inf,%foxlink.mfgname%;Foxlink
+FriendlyName :  HP HD Webcam [Fixed]
+
+
+
+
+
+HardwareID :  ['USB\\VID_0781&PID_5581&REV_0100', 'USB\\VID_0781&PID_5581']
+Service :  USBSTOR
+Mfg :  @usbstor.inf,%generic.mfg%;Compatible USB storage device
+
+
+
+
+
+HardwareID :  ['USB\\VID_090C&PID_1000&REV_1100', 'USB\\VID_090C&PID_1000']
+Service :  USBSTOR
+Mfg :  @usbstor.inf,%generic.mfg%;Compatible USB storage device
+
+
+
+
+
+HardwareID :  ['USB\\VID_1532&PID_0040&REV_0200', 'USB\\VID_1532&PID_0040']
+Service :  usbccgp
+Mfg :  @usb.inf,%generic.mfg%;(Standard USB Host Controller)
+
+
+
+
+HardwareID :  ['USB\\VID_1532&PID_0040&REV_0200', 'USB\\VID_1532&PID_0040']
+Service :  usbccgp
+Mfg :  @usb.inf,%generic.mfg%;(Standard USB Host Controller)
+
+
+
+
+
+HardwareID :  ['USB\\VID_1532&PID_0040&REV_0200&MI_00', 'USB\\VID_1532&PID_0040&MI_00']
+Service :  HidUsb
+Mfg :  @input.inf,%stdmfg%;(Standard system devices)
+
+
+
+
+HardwareID :  ['USB\\VID_1532&PID_0040&REV_0200&MI_00', 'USB\\VID_1532&PID_0040&MI_00']
+Service :  HidUsb
+Mfg :  @input.inf,%stdmfg%;(Standard system devices)
+
+
+
+
+
+HardwareID :  ['USB\\VID_1532&PID_0040&REV_0200&MI_01', 'USB\\VID_1532&PID_0040&MI_01']
+Service :  HidUsb
+Mfg :  @input.inf,%stdmfg%;(Standard system devices)
+
+
+
+
+HardwareID :  ['USB\\VID_1532&PID_0040&REV_0200&MI_01', 'USB\\VID_1532&PID_0040&MI_01']
+Service :  HidUsb
+Mfg :  @input.inf,%stdmfg%;(Standard system devices)
+
+
+
+
+
+HardwareID :  ['USB\\VID_1532&PID_0040&REV_0200&MI_02', 'USB\\VID_1532&PID_0040&MI_02']
+Service :  HidUsb
+Mfg :  @input.inf,%stdmfg%;(Standard system devices)
+
+
+
+
+HardwareID :  ['USB\\VID_1532&PID_0040&REV_0200&MI_02', 'USB\\VID_1532&PID_0040&MI_02']
+Service :  HidUsb
+Mfg :  @input.inf,%stdmfg%;(Standard system devices)
+
+
+
+
+
+HardwareID :  ['USB\\VID_2341&PID_0043&REV_0001', 'USB\\VID_2341&PID_0043']
+Mfg :  @oem40.inf,%manufacturername%;Arduino LLC (www.arduino.cc)
+Service :  usbser
+FriendlyName :  Arduino Uno (COM4)
+
+
+
+
+HardwareID :  ['USB\\VID_2341&PID_0043&REV_0001', 'USB\\VID_2341&PID_0043']
+Mfg :  @oem40.inf,%manufacturername%;Arduino LLC (www.arduino.cc)
+Service :  usbser
+FriendlyName :  Arduino Uno (COM3)
+
+
+
+
+
+HardwareID :  ['USB\\VID_8087&PID_0024&REV_0000', 'USB\\VID_8087&PID_0024']
+Service :  usbhub
+Mfg :  @usb.inf,%generichub.mfg%;(Generic USB Hub)
+
+
+
+
+HardwareID :  ['USB\\VID_8087&PID_0024&REV_0000', 'USB\\VID_8087&PID_0024']
+Service :  usbhub
+Mfg :  @usb.inf,%generichub.mfg%;(Generic USB Hub)
